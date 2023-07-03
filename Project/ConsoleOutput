@@ -1,0 +1,14 @@
+using System.Reflection.Emit;
+using System.Data;
+using Internal;
+using System;
+namespace ConsoleOutput
+{
+    class Project
+}
+    static void Main ()
+    {
+        Console.WriteLine ("Nguyen Khanh Linh");
+        Console.WriteLine (a) 
+        Console.WriteLine
+    }
